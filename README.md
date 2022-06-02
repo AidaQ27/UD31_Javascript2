@@ -17,3 +17,7 @@ https://constanhin.github.io/UD31_Javascript2/
 ## 14 Calculadora
 
 ![image](https://user-images.githubusercontent.com/67373492/171056927-e3e60c05-cf9e-4dbe-814a-46dd779d6965.png)
+
+## 15 Visor de imagenes
+
+![Captura de pantalla 2022-06-02 161645](https://user-images.githubusercontent.com/97692045/171650324-ac7b76f4-bb98-42f0-877b-4d2509575ac2.jpg)
